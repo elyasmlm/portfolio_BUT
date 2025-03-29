@@ -9,8 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
@@ -37,5 +36,5 @@
     "tailwindcss": "^4.0.0",
     "vite": "^6.0.5"
   },
-"homepage": "https://elyasmlm.github.io/portfolio_BUT3"
+  "homepage": "https://elyasmlm.github.io/portfolio_BUT3"
 }
