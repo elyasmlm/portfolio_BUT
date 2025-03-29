@@ -50,7 +50,7 @@ function App() {
           {/* Photo de profil */}
           <div className="w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 rounded-full overflow-hidden mb-4 sm:mb-8 md:mb-12 shadow-lg">
             <img
-              src="/IMG_3837-removebg.png"
+              src="IMG_3837-removebg.png"
               alt="Photo de profil"
               className="w-full h-full object-cover"
             />
