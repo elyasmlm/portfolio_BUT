@@ -43,7 +43,7 @@ function App() {
       {/* Section À propos */}
       <section
         id="orders"
-        className="min-h-screen w-full flex flex-col lg:flex-row items-center justify-center px-4 py-8"
+        className="h-screen w-full flex flex-col lg:flex-row items-center justify-center px-4 py-8"
       >
         {/* Partie gauche : Informations personnelles - Stack sur mobile */}
         <div className="w-full lg:w-1/3 h-auto lg:h-2/3 flex flex-col items-center justify-center p-4 lg:p-8 m-2 lg:m-12 bg-purple-200/25 rounded-lg shadow-lg">
@@ -85,7 +85,7 @@ function App() {
           {/* Timeline Container */}
           <div className="relative w-full h-full">
             {/* Ligne centrale - Centrée sur mobile */}
-            <div className="absolute left-4 sm:left-1/2 top-0 h-full w-1 bg-gradient-to-b from-transparent via-blue-500 to-transparent transform sm:-translate-x-1/2 hidden sm:block"></div>
+            <div className="absolute left-4 sm:left-1/2 top-0 h-700 w-1 bg-gradient-to-b from-transparent via-blue-500 to-transparent transform sm:-translate-x-1/2 hidden sm:block"></div>
 
             {/* Item 1 */}
             <div className="mb-8 sm:mb-12">
