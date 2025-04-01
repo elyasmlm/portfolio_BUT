@@ -1,8 +1,16 @@
-# React + Vite
+# 🌐 Portfolio - Elyas Maloum
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenue sur le dépôt GitHub de mon portfolio personnel. Ce site met en avant mes projets, mes compétences, mon parcours ainsi que mes expériences professionnelles dans le domaine du développement web.
 
-Currently, two official plugins are available:
+## 🚀 Aperçu
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Lien vers le site en ligne](https://elyasmlm.github.io/portfolio_BUT/)
+
+---
+
+## 🛠️ Stack technique
+
+- Front-end : HTML5 / CSS3 / JavaScript
+- Framework : React + Vite
+- Styling : Tailwind CSS
+- Hébergement : GitHub Pages
